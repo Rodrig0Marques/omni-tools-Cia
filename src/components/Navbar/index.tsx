@@ -5,8 +5,8 @@ import Button from '@mui/material/Button';
 import IconButton from '@mui/material/IconButton';
 import MenuIcon from '@mui/icons-material/Menu';
 import { Link, useNavigate } from 'react-router-dom';
-import logo from 'assets/1.png';
-import logoWhite from 'assets/CONQUEST-SIMBOLO.png';
+import logo from '../../assets/CONQUESTHUB-HORIZONTAL-PRETO.png';
+import logoWhite from '../../assets/CONQUESTHUB-HORIZONTAL-BRANCO.png';
 import {
   Drawer,
   List,
